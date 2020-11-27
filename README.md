@@ -1,4 +1,4 @@
-# covid_almendralejo
+# Repositorio de datos de Covid19 de Almendralejo y preparación de gráficas
 Repositorio de datos de covid19 de Almendralejo
 
 ![alt text](https://github.com/mharias/covid_almendralejo/blob/main/graficos/almendralejo_nuevos_casos.png)
