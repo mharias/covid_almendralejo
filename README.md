@@ -1,5 +1,5 @@
 # covid_almendralejo
 Repositorio de datos de covid19 de Almendralejo
 
-[![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/mharias/covid_almendralejo/blob/master/LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)(https://github.com/mharias/covid_almendralejo/blob/master/LICENSE.md)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/mharias/covid_almendralejo/commits/master)
