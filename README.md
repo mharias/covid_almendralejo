@@ -9,3 +9,4 @@ Los datos se están recopilando en esta [excel](https://github.com/mharias/covid
 
 Si usa estos datos le agradecería que referencie este repositorio. Este repositorio a su vez referencia al origen de datos.
 
+Para cualquier problema puede abrir un Issues, o mandarme un correo a mharias@me.com gracias!
