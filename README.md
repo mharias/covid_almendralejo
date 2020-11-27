@@ -1,7 +1,7 @@
 # covid_almendralejo
 Repositorio de datos de covid19 de Almendralejo
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/mharias/covid_almendralejo/blob/main/graficos/almendralejo_nuevos_casos.png)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
