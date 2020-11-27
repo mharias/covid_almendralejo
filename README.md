@@ -3,6 +3,8 @@ Repositorio de datos de covid19 de Almendralejo
 
 ![alt text](https://github.com/mharias/covid_almendralejo/blob/main/graficos/almendralejo_nuevos_casos.png)
 
+![alt text](https://github.com/mharias/covid_almendralejo/blob/main/graficos/almendralejo_ia14.png)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/mharias/covid_almendralejo/commits/master)
