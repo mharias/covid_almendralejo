@@ -26,6 +26,7 @@ Los datos están disponibles desde 18 de Octubre 2020.
 ## ¿Puedo ver un ejemplo de como preparar gráficas?
 En este [notebook](https://github.com/mharias/covid_almendralejo/blob/main/graficos_almendralejo.ipynb) dispone del código para generar los diferentes gráficos que vemos a continuación:
 
+##Ejemplo de gráficas
 ![alt text](https://github.com/mharias/covid_almendralejo/blob/main/graficos/almendralejo_nuevos_casos.png)
 
 ![alt text](https://github.com/mharias/covid_almendralejo/blob/main/graficos/almendralejo_ia14.png)
@@ -35,4 +36,4 @@ En este [notebook](https://github.com/mharias/covid_almendralejo/blob/main/grafi
 
 Si usa estos datos le agradecería que referencie este repositorio #covid_almendralejo. Este repositorio a su vez referencia al origen de datos.
 
-Para cualquier problema puede abrir un [`Issue`](https://github.com/mharias/covid_almendralejo/issues), o mandarme un correo a mharias@me.com, muchas gracias por su colaboración!
+Para cualquier problema puede abrir un [`Issue`](https://github.com/mharias/covid_almendralejo/issues), o mandarme un correo a mharias@me.com. Me puede encontrar también aen [Twitter](https://twitter.com/walyt) gracias por su colaboración!
