@@ -28,4 +28,4 @@ En este [notebook](https://github.com/mharias/covid_almendralejo/blob/main/grafi
 
 Si usa estos datos le agradecería que referencie este repositorio. Este repositorio a su vez referencia al origen de datos.
 
-Para cualquier problema puede abrir un `Issue`, o mandarme un correo a mharias@me.com, muchas gracias!
+Para cualquier problema puede abrir un [`Issue`](https://github.com/mharias/covid_almendralejo/issues), o mandarme un correo a mharias@me.com, muchas gracias por su colaboración!
