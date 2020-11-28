@@ -36,4 +36,5 @@ En este [notebook](https://github.com/mharias/covid_almendralejo/blob/main/grafi
 
 Si usa estos datos le agradecería que referencie este repositorio #covid_almendralejo. Este repositorio a su vez referencia al origen de datos.
 
-Para cualquier problema puede abrir un [`Issue`](https://github.com/mharias/covid_almendralejo/issues), o mandarme un correo a mharias@me.com. Me puede encontrar también aen [Twitter](https://twitter.com/walyt) gracias por su colaboración!
+Para cualquier problema puede abrir un [`Issue`](https://github.com/mharias/covid_almendralejo/issues), o mandarme un correo a mharias@me.com. Me puede encontrar también en [Twitter](https://twitter.com/walyt).
+Gracias por su colaboración y a extremar el cuidado!
