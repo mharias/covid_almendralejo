@@ -6,7 +6,16 @@ Repositorio de datos de covid19 de Almendralejo
 
 
 He creado este repositorio para recopilar, y poner a disposición de todos, los datos epidemiológicos de Almendralejo publicados por el Ayuntamiento Almendralejo y por la Comunidad Autónoma Extremadura.
-Los datos se están recopilando en esta [excel](https://github.com/mharias/covid_almendralejo/blob/main/datos/almendralejo.xlsx), se copian de ediariamente de este site. Y se hace de forma manual, no he encontrado aun la manera de scrapearlo. Cualquier sugerencia es bienvenida!
+Los datos se están recopilando en esta [excel](https://github.com/mharias/covid_almendralejo/blob/main/datos/almendralejo.xlsx), se copian de ediariamente de este site. Y se hace de forma manual, no he encontrado aun la manera de escrapearlo. Cualquier sugerencia con procedimientos para es bienvenida!
+
+El código `python` para realizar la descarga a `pandas` es el siguiente: 
+```python
+import pandas as pd
+path_fuente_datos_github='https://github.com/mharias/covid_almendralejo/blob/main/datos/almendralejo.xlsx?raw=true'
+datos = pd.read_excel(path_fuente_datos_github,skiprows=2)
+```
+En el `pandas`datos ya dispondría de la información de datos positivos y activos ordenados por fechas.
+Los datos están disponibles desde 18 de Octubre 2020.
 
 En este [notebook](https://github.com/mharias/covid_almendralejo/blob/main/graficos_almendralejo.ipynb) dispone del código para generar los diferentes gráficos que vemos a continuación:
 
@@ -19,4 +28,4 @@ En este [notebook](https://github.com/mharias/covid_almendralejo/blob/main/grafi
 
 Si usa estos datos le agradecería que referencie este repositorio. Este repositorio a su vez referencia al origen de datos.
 
-Para cualquier problema puede abrir un Issues, o mandarme un correo a mharias@me.com, muchas gracias!
+Para cualquier problema puede abrir un `Issue`, o mandarme un correo a mharias@me.com, muchas gracias!
