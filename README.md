@@ -7,6 +7,7 @@ Repositorio de datos de covid19 de Almendralejo
 
 Ante la imposibilidad de recopilar, de una manera sencilla y automática, los datos históricos de casos epidemiológicos de Almendralejo decidí preparar este repositorio, en el que de manera manual, y diariamente, copiamos y pegamos los datos publicados bien por el Ayuntamiento de Almendralejo en formato no reusable ([twitter](https://twitter.com/AlcaldiaAlm/status/1329705935992975365?s=20) o [facebook](https://www.facebook.com/ayuntamientodealmendralejo/posts/1091505441303447)) bien  por la Comunidad Autónoma Extremadura desde este [site](https://saludextremadura.ses.es/web/casospositivos).
 
+Este repositorio está inspirado en el grupo de voluntarios [#escovid19data](https://github.com/montera34/escovid19data), en el que colaboro actualizando la información de varias comunidades. 
 
 ## ¿Dónde se guardan los datos?
 Los datos se están recopilando en esta [excel](https://github.com/mharias/covid_almendralejo/blob/main/datos/almendralejo.xlsx). Y se hace de forma manual, no he encontrado aun la manera de automatizar esta tarea. Cualquier sugerencia con procedimientos para hacerlo es bienvenida!. Y por supuesto, es objetivo de este proyecto, están a su disposición.
