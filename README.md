@@ -10,7 +10,7 @@ Ante la imposibilidad de recopilar, de una manera sencilla y automática, los da
 Este repositorio está inspirado en el grupo de voluntarios [#escovid19data](https://github.com/montera34/escovid19data), en el que colaboro actualizando la información de varias comunidades. 
 
 ## ¿Dónde se guardan los datos?
-Los datos se están recopilando en esta [excel](https://github.com/mharias/covid_almendralejo/blob/main/datos/almendralejo.xlsx). Y se hace de forma manual, no he encontrado aun la manera de automatizar esta tarea. Cualquier sugerencia con procedimientos para hacerlo es bienvenida!. Y por supuesto, es objetivo de este proyecto, están a su disposición.
+Los datos se están recopilando en este [fichero csv](https://github.com/mharias/covid_almendralejo/blob/main/datos/almendralejo.csv). Y se hace de forma manual, no he encontrado aun la manera de automatizar esta tarea. Cualquier sugerencia con procedimientos para hacerlo es bienvenida!. Y por supuesto, es objetivo de este proyecto, están a su disposición. Este fichero se actualiza con los cálculos de la IA14.
 
 ## ¿Cómo puedo usar los datos para preparar mis propias gráficas, o estudiarlos?
 El código `python` para realizar la descarga a `pandas` es el siguiente: 
