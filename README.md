@@ -31,6 +31,9 @@ En este [notebook](https://github.com/mharias/covid_almendralejo/blob/main/grafi
 
 ![alt text](https://github.com/mharias/covid_almendralejo/blob/main/graficos/almendralejo_activos.png)
 
+y añadimos el modelo EPG que publicó la [UPC](https://biocomsc.upc.edu/en/shared/20200412_report_web_27.pdf)
+
+![alt text](https://github.com/mharias/covid_almendralejo/blob/main/graficos/EPG_de_Almendralejo.png)
 
 Si usa estos datos le agradecería que referencie este repositorio #covid_almendralejo. Este repositorio a su vez referencia al origen de datos.
 
